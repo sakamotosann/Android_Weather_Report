@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+
+    <dbname value="weather_report" />
+
+    <version value="1" />
+
+    <list>
+        <mapping class="com.pby.weather_report.db.Province" />
+        <mapping class="com.pby.weather_report.db.City" />
+        <mapping class="com.pby.weather_report.db.County" />
+    </list>
+
+</litepal>
